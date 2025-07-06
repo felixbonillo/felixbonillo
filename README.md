@@ -19,10 +19,15 @@ Mi sueño es conseguir mi primer rol como desarrollador web, donde pueda aplicar
 
 ## 🔗 Conéctate Conmigo:
 LinkedIn
+https://www.linkedin.com/in/felix-bonillo-b9368936b/
+
 
 ## Email 📧
 
-Mi Repositorio de Proyectos (¡Aquí verás mis creaciones!) 🚀
+felix.bonillo3@gmail.com
+
+## Mi Repositorio de Proyectos (¡Aquí verás mis creaciones!) 🚀
+https://github.com/felixbonillo
 
 <!--
 **felixbonillo/felixbonillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
