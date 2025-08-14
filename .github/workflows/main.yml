@@ -1,0 +1,40 @@
+# Nombre del Workflow
+name: Generate Snake Animation
+
+# Cuándo se ejecutará
+on:
+  # Se ejecuta automáticamente cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+# Los trabajos que se realizarán
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Clona tu repositorio para poder escribir en él
+      - uses: actions/checkout@v3
+
+      # 2. Genera la animación de la serpiente
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Tu nombre de usuario de GitHub
+          github_user_name: felixbonillo
+          
+          # Especifica los archivos de salida
+          # Aquí le decimos que guarde la imagen en la carpeta "output"
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # 3. Empuja los archivos generados de vuelta a tu repositorio
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
