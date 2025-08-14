@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felixbonillo/felixbonillo/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Dark](https://github.com/felixbonillo/felixbonillo/blob/main/dist/github-snake-dark.svg?raw=true)
 
 ###
 
