@@ -45,8 +45,7 @@
 </div>
 
 ###
-
-![GitHub Snake Dark](https://github.com/felixbonillo/felixbonillo/blob/output/dist/snake-dark.svg?raw=true)
+![GitHub Snake Dark](https://github.com/felixbonillo/felixbonillo/blob/output/snake-dark.svg?raw=true)
 
 ###
 
