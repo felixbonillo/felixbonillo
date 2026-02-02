@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://system-override-web.vercel.app">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio_V3-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio" />
+<img src="https://assets.basehub.com/abf101479dea7d2c/6f41915a5fe603226920bebbd79f8539/vercel0.webp" alt="Portfolio" />
 </a>
 </p>
 </div>
