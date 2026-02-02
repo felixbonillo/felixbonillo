@@ -1,77 +1,67 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Félix Bonillo 👋</h1>
-  <h3 align="center">Frontend Engineer | Next.js & TypeScript Specialist</h3>
-  <p align="center">
-    <em>Former Electronics Technician turned Software Engineer. I bring a hardware-level analytical mindset to debugging and software architecture.</em>
-  </p>
+<h1 align="center">Hi, I'm Félix Bonillo 👋</h1>
+<h3 align="center">Frontend Architect | Performance Specialist</h3>
+<p align="center">
+<em>Former Electronics Technician turned Software Engineer. I bring a hardware-level analytical mindset to debugging, memory management, and scalable architecture.</em>
+</p>
 
-  <p align="center">
-    <a href="mailto:felixbonillotrabajo@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/felix-bonillo-b9368936b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<p align="center">
+<a href="mailto:felixbonillotrabajo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/felixbonillo/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://system-override-web.vercel.app">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio_V3-000000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" alt="Portfolio" />
+</a>
+</p>
 </div>
 
----
+🚀 Engineering Philosophy
 
-### 🚀 About Me
+I focus on building scalable SaaS architectures optimized for low-end hardware. My background in Hardware Diagnosis allows me to visualize the render cycle and memory allocation, resulting in highly efficient code. I strictly enforce type-safety and prefer "boring", robust architecture over fragile trends.
 
-I focus on building **scalable SaaS architectures** and commercial platforms with high performance. My background in **Hardware Diagnosis** has given me a unique edge in logical problem-solving and troubleshooting complex systems. I don't just write code; I engineer solutions with strict type-safety and robust state management.
+🛠️ Tech Stack Arsenal
 
-### 🛠️ Tech Stack
+Core & Languages
 
-**Core & Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-007BCC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+Architecture & Frameworks
 
-**Frameworks & Ecosystem**
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+State & Data
 
-**State & Validation**
-![Zustand](https://img.shields.io/badge/Zustand-orange?style=flat-square)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-
-### 💼 Selected Projects
+💼 Selected Systems
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">👓 Óptica Lente Colors</h3>
-      <p align="center"><strong>E-commerce Platform & Financial Simulator</strong></p>
-      <p>A high-performance commercial platform achieving 90+ Lighthouse scores. Features a custom financial quota simulator built with strict TypeScript logic.</p>
-      <p align="center">
-        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
-      </p>
-      <p align="center">
-        <a href="https://lentecolors.vercel.app">🌐 Live Demo</a> | <a href="https://github.com/felixbonillo/lentecolors">📂 Source Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📋 Multi-step SaaS Engine</h3>
-      <p align="center"><strong>Complex Form Architecture</strong></p>
-      <p>A scalable architecture for multi-step forms using Zustand for client-side persistence (no prop-drilling) and Server Actions for secure mutations.</p>
-      <p align="center">
-        <code>Next.js 14</code> <code>Zustand</code> <code>Zod</code> <code>Prisma</code>
-      </p>
-      <p align="center">
-        <em>Private Repository (Prototype)</em>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+<h3 align="center">🛑 SYSTEM_OVERRIDE</h3>
+<p align="center"><strong>Frontend Architecture Monorepo</strong></p>
+<p>A high-performance portfolio engineered for legacy hardware. Implements a custom "Tactical HUD" interface, strict Mobile-First design, and Server Actions for backend logic without APIs.</p>
+<p align="center">
+<code>Next.js 15</code> <code>Turborepo</code> <code>Tailwind v4</code>
+</p>
+<p align="center">
+<a href="https://system-override-web.vercel.app">🌐 Live System</a> | <a href="https://www.google.com/search?q=https://github.com/felixbonillo/system-override">📂 Codebase</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">👓 Óptica Lente Colors</h3>
+<p align="center"><strong>E-commerce & Financial Logic</strong></p>
+<p>Commercial platform with 90+ Lighthouse scores. Features a custom financial quota simulator built with strict TypeScript logic to automate pricing calculations.</p>
+<p align="center">
+<code>Next.js</code> <code>TypeScript</code> <code>Finance Logic</code>
+</p>
+<p align="center">
+<a href="https://lentecolors.vercel.app">🌐 Live Store</a> | <a href="https://github.com/felixbonillo/lentecolors">📂 Source Code</a>
+</p>
+</td>
+</tr>
 </table>
 
-### 📈 GitHub Stats
+📈 Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixbonillo&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbonillo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=felixbonillo&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbonillo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages graph" />
 </div>
