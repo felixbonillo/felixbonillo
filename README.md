@@ -82,6 +82,5 @@ I focus on building scalable SaaS architectures optimized for low-end hardware. 
 ### 📈 Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixbonillo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" height="150" alt="stats graph" />
-  
-  </div>
+  <img src="https://github.com/felixbonillo/felixbonillo/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
