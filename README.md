@@ -82,5 +82,5 @@ I focus on building scalable SaaS architectures optimized for low-end hardware. 
 ### 📈 Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Metrics" width="800">
+  <img src="./github-metrics.svg" alt="Metrics" width="75%">
 </div>
