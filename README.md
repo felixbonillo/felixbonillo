@@ -66,5 +66,5 @@ State & Data
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felixbonillo&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbonillo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixbonillo&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6&exclude_repo=repo-pesado-1,fork-innecesario" height="150" alt="languages graph" />
 </div>
