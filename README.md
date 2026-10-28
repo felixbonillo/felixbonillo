@@ -1,19 +1,16 @@
 <div align="center">
   <h1 align="center">Hi, I'm Félix Bonillo 👋</h1>
-  <h3 align="center">Frontend Architect | Performance Specialist</h3>
+  <h3 align="center">IT Support Technician | Linux SysAdmin | Aspiring DevOps</h3>
   <p align="center">
-    <em>Former Electronics Technician turned Software Engineer. I bring a hardware-level analytical mindset to debugging, memory management, and scalable architecture.</em>
+    <em>Former Electronics Technician turned IT Specialist. I bring a hardware-level analytical mindset to troubleshooting, Linux administration, and systems automation.</em>
   </p>
 
   <p align="center">
     <a href="mailto:felixbonillotrabajo@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/felixbonillo/">
+    <a href="https://www.linkedin.com/in/felix-bonillo/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://system-override-web.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 </div>
@@ -21,65 +18,71 @@
 ---
 
 ### 🚀 Engineering Philosophy
-I focus on building scalable SaaS architectures optimized for low-end hardware. My background in Hardware Diagnosis allows me to visualize the render cycle and memory allocation, resulting in highly efficient code. I strictly enforce type-safety and prefer "boring", robust architecture over fragile trends.
+My background in hardware diagnosis and electronics gave me a deep understanding of how systems work from the ground up. Today, I apply that logic to IT infrastructure. I focus on robust, automated solutions using Bash scripting, securing services with `firewalld`, managing access with `SELinux`, and ensuring system stability through proactive monitoring and troubleshooting.
 
 ### 🛠️ Tech Stack Arsenal
 
-**Core & Languages**
+**Operating Systems & Core Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AlmaLinux-0F4266?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux" />
+  <img src="https://img.shields.io/badge/RHEL_9-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
+  <img src="https://img.shields.io/badge/Windows_10%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-**Architecture & Frameworks**
+**Automation & Scripting**
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 15" />
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/cron-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="Cron" />
 </p>
 
-**State & Data**
+**Networking & Security**
 <p align="left">
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-4EAA25?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/firewalld-EE0000?style=for-the-badge&logo=linux&logoColor=white" alt="firewalld" />
+  <img src="https://img.shields.io/badge/SELinux-EE0000?style=for-the-badge&logo=linux&logoColor=white" alt="SELinux" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-### 💼 Selected Systems
+**Tools & Version Control**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+</p>
+
+### 💼 Featured Systems & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛑 SYSTEM_OVERRIDE</h3>
-      <p align="center"><strong>Frontend Architecture Monorepo</strong></p>
-      <p>A high-performance portfolio engineered for legacy hardware. Implements a custom "Tactical HUD" interface, strict Mobile-First design, and Server Actions for backend logic without APIs.</p>
+      <h3 align="center">🐧 Linux System Diagnostic Script</h3>
+      <p align="center"><strong>Bash Scripting & Automation</strong></p>
+      <p>A comprehensive Bash script designed for sysadmins to monitor RAM, disk usage, and active users. Features configurable thresholds, visual color-coded alerts (ANSI), and persistent logging for system auditing.</p>
       <p align="center">
-        <code>Next.js 15</code> <code>Turborepo</code> <code>Tailwind v4</code>
+        <code>Bash</code> <code>awk</code> <code>Linux</code> <code>systemd</code>
       </p>
       <p align="center">
-        <a href="https://system-override-web.vercel.app">🌐 Live System</a> | <a href="https://github.com/felixbonillo/system-override">📂 Codebase</a>
+        <a href="https://github.com/felixbonillo/script-diagnostico">📂 Codebase</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👓 Óptica Lente Colors</h3>
-      <p align="center"><strong>E-commerce & Financial Logic</strong></p>
-      <p>Commercial platform with 90+ Lighthouse scores. Features a custom financial quota simulator built with strict TypeScript logic to automate pricing calculations.</p>
+      <h3 align="center">🛠️ Dual-Boot Infrastructure Lab</h3>
+      <p align="center"><strong>System Recovery & Architecture</strong></p>
+      <p>Deployment and recovery of a dual-boot environment (Windows 10 + AlmaLinux 9) on UEFI/GPT. Successfully resolved bootloader corruption (GRUB), rebuilt partition tables, and configured Secure Boot and kernel modules from scratch.</p>
       <p align="center">
-        <code>Next.js</code> <code>TypeScript</code> <code>Finance Logic</code>
+        <code>UEFI</code> <code>GRUB</code> <code>LVM</code> <code>TestDisk</code>
       </p>
       <p align="center">
-        <a href="https://lentecolors.vercel.app">🌐 Live Store</a> | <a href="https://github.com/felixbonillo/lentecolors">📂 Source Code</a>
+        <em>Documentation available upon request</em>
       </p>
     </td>
   </tr>
 </table>
 
-### 📈 Metrics
+### 📈 GitHub Metrics
 
 <div align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="400">
